@@ -4,8 +4,8 @@ A modern, animated single-page landing page for [Tulas International School (TIS
 
 ## Live Demo
 
-- **Live URL:** _[Deploy to Vercel/Netlify and paste link here]_
-- **Repository:** _[Your GitHub repo link]_
+- **Live URL:** [https://ashishreddy2022-source.github.io/tis-homepage-redesign/](https://ashishreddy2022-source.github.io/tis-homepage-redesign/)
+- **Repository:** [https://github.com/ashishreddy2022-source/tis-homepage-redesign](https://github.com/ashishreddy2022-source/tis-homepage-redesign)
 
 ## Tech Stack
 
@@ -15,7 +15,7 @@ A modern, animated single-page landing page for [Tulas International School (TIS
 | Styling     | Tailwind CSS v4       |
 | Animations  | Framer Motion         |
 | Icons       | Lucide React          |
-| Deployment  | Vercel / Netlify      |
+| Deployment  | GitHub Pages          |
 
 ## Standout Features
 
